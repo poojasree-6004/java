@@ -25,7 +25,7 @@ Technologies Used:
 
 How to Use This Project:
 
-1. Download all the files: minijava.html, styles70.css, and script20.js.
+1. Download all the files: index.html, styles.css, and script.js.
 2. Make sure all three files are in the same folder/directory.
 3. Open the index.html file using any modern web browser (like Chrome, Firefox, Edge).
 4. You will see a heading "Counter Timer" and an input box.
